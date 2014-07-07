@@ -1,4 +1,12 @@
 android-gdb-example
 ===================
 
-Example codes used to introduce GDB debugging How-To in Google Android(Froyo 2.2). 
+* Author: William.L  
+* Email: <wiliwe@gmail.com>  
+* SlideShare: <http://www.slideshare.net/wiliwe/>  
+
+Purpose
+-------
+Android example codes for document :  
+######_Android GDB Debugging_######
+<http://www.slideshare.net/wiliwe/android-gdb-debugging>  
